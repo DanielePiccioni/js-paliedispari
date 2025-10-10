@@ -31,6 +31,11 @@ function controlword(word){
     
 }
 
-console.log(controlword(word));
-
 // stampare il risultato
+if(controlword(word)){
+    console.log(`La parola ${word} è palindroma`);
+    
+} else{
+    console.log(`La parola ${word} non è palindroma`);
+    
+}
