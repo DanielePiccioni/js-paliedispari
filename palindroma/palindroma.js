@@ -11,3 +11,12 @@ TOOLS:
 -controllare tramite la funzione se quella parola è palindroma
 -stampare il risultato
 */
+
+
+//chiedeer una parola all'utente
+
+// creare una funzione
+
+// controllare tramite la funzione se la parola è palindroma
+
+// stampare il risultato
