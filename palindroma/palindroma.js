@@ -14,7 +14,7 @@ TOOLS:
 
 
 //chiedeer una parola all'utente
-
+const word = prompt("inserisci una parola")
 // creare una funzione
 
 // controllare tramite la funzione se la parola è palindroma
