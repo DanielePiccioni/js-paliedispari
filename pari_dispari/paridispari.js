@@ -35,5 +35,14 @@ let somma = numeroscelto + numerocomputer
 console.log(`la somma di questi numeri è ${somma}`);
 
 //controllo se il numero è pari o dispari
+function verifica(somma){
+    if (somma % 2 === 0){
+        return "pari";
+    } else {
+        return "dispari"
+    }
+}
+let risultato = verifica(somma);
+console.log(risultato);
 
 //stampare il risultato 
