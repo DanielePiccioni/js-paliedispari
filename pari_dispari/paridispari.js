@@ -25,6 +25,9 @@ let numeroscelto = prompt("inserisci un numero da 1 a 5")
 console.log(`hai scelto ${scelta} e il numero ${numeroscelto}`);
 
 // numero casuale del computer da 1 a 5
+let numerocomputer = Math.floor(Math.random() * 5)+1;
+
+console.log(`Il computer ha scelto il numero ${numerocomputer}`);
 
 // somma dei numeri
 
