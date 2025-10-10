@@ -16,6 +16,13 @@ TOOLS:
 //chiedeer una parola all'utente
 const word = prompt("inserisci una parola")
 // creare una funzione
+function controlword(word){
+    //creazione della parola al contrario
+    let wordreverse = " "
+    for(let i = word.length -1; i >= 0; i--){
+        wordreverse += word[i];
+    }
+}
 
 // controllare tramite la funzione se la parola è palindroma
 
