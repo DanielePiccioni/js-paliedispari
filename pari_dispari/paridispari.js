@@ -16,3 +16,15 @@ TOOLS:
 -creaare una funzione per verificare se è pari o dispari
 -staampare il risultato
 */
+
+//l'utente scegli tra pari e dispari
+
+//l'utente sceglie un numero da 1 a 5
+
+// numero casuale del computer da 1 a 5
+
+// somma dei numeri
+
+//controllo se il numero è pari o dispari
+
+//stampare il risultato 
