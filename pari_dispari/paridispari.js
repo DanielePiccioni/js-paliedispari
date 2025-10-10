@@ -20,7 +20,7 @@ TOOLS:
 //l'utente scegli tra pari e dispari
 let scelta = prompt("scegli pari o dispari")
 //l'utente sceglie un numero da 1 a 5
-let numeroscelto = prompt("inserisci un numero da 1 a 5")
+let numeroscelto = Number(prompt("inserisci un numero da 1 a 5"));
 
 console.log(`hai scelto ${scelta} e il numero ${numeroscelto}`);
 
@@ -30,6 +30,9 @@ let numerocomputer = Math.floor(Math.random() * 5)+1;
 console.log(`Il computer ha scelto il numero ${numerocomputer}`);
 
 // somma dei numeri
+let somma = numeroscelto + numerocomputer
+
+console.log(`la somma di questi numeri è ${somma}`);
 
 //controllo se il numero è pari o dispari
 
