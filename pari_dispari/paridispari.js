@@ -43,6 +43,11 @@ function verifica(somma){
     }
 }
 let risultato = verifica(somma);
-console.log(risultato);
-
 //stampare il risultato 
+if(risultato === scelta){
+    console.log("hai vinto");
+    
+}else {
+    console.log("hai perso");
+    
+}
