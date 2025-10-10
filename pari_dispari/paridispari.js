@@ -6,3 +6,13 @@ Sommiamo i due numeri
 Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.
 */
+
+/* 
+TOOLS:  
+-l'utente sceglie pari o dispari
+-l'utente sceglie un numero da 1 a 5
+-numero casuale dal computer da 1 a 5
+- somma dei numeri 
+-creaare una funzione per verificare se è pari o dispari
+-staampare il risultato
+*/
