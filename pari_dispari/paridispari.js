@@ -18,8 +18,11 @@ TOOLS:
 */
 
 //l'utente scegli tra pari e dispari
-
+let scelta = prompt("scegli pari o dispari")
 //l'utente sceglie un numero da 1 a 5
+let numeroscelto = prompt("inserisci un numero da 1 a 5")
+
+console.log(`hai scelto ${scelta} e il numero ${numeroscelto}`);
 
 // numero casuale del computer da 1 a 5
 
